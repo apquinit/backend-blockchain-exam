@@ -23,4 +23,4 @@ Create an API server using Node.js runtime that allows user registration/login a
 
 Plus points if the entire server application is Dockerized.
 
-Push the code on a public repository also named "backend-blockchain-exam" under your own GitHub account. Send the repository link with the complete solution to the examiner not later that 3 days.
+Push the code on a public repository also named "backend-blockchain-exam" under your own GitHub account. Send the repository link with the complete solution to the examiner not later than 3 days.
